@@ -13,7 +13,7 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://t.me/+FGUOP60pSGphZWNl"
+          href="https://dcd.gg/shizuru"
           target="_blank"
           rel="noreferrer"
         >
@@ -25,7 +25,7 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://t.me/+FGUOP60pSGphZWNl"
+          href="https://dcd.gg/shizuru"
           target="_blank"
           rel="noreferrer"
         >
@@ -37,7 +37,7 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://t.me/+FGUOP60pSGphZWNl"
+          href="https://dcd.gg/shizuru"
           target="_blank"
           rel="noreferrer"
         >
@@ -49,7 +49,7 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://t.me/+FGUOP60pSGphZWNl"
+          href="https://dcd.gg/shizuru"
           target="_blank"
           rel="noreferrer"
         >
