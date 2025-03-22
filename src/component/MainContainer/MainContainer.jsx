@@ -23,7 +23,7 @@ export default function MainContainer(props) {
               IsLoading={props.IsLoading}
             />
             <AnimeCollection
-              collectionName="New on Animoon"
+              collectionName="New on Shizuru"
               data={props.dataNew.animes?.slice(0, 12)}
               filterName="recently-added"
               IsLoading={props.IsLoading}
