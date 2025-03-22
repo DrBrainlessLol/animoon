@@ -2,7 +2,7 @@ import React from "react";
 import Home from "@/app/home/Home";
 
 export default async function Page() {
-  const ShareUrl = "https://animoon.me/";
+  const ShareUrl = "https://shizuru.app/";
 
   // Function to fetch data with cache and revalidation
   async function fetchDataWithCache(url) {
