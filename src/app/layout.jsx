@@ -8,12 +8,12 @@ import Script from "next/script";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Animoon - Watch free Anime Online English Sub/Dub",
-  description: `Animoon is the best site to watch Anime SUB online, or you can even watch Anime DUB in HD quality. You can also find UnderRated anime on Animoon website.`,
-  verification: {
+  title: "Shizuru - Watch free Anime Online English Sub/Dub",
+  description: `Shizuru is the best site to watch Anime SUB online, or you can even watch Anime DUB in HD quality. You can also find UnderRated anime on Shizuru website.`,
+  verification: {/*
     google: "x0aiWAODNGU-1UA2FXyORfyme9uWJir7mIMu8AMmLm4",
     "google-adsense-account": "ca-pub-9295326902131480",
-  },
+ */ },
 };
 
 export default function RootLayout({ children }) {
@@ -43,12 +43,12 @@ export default function RootLayout({ children }) {
             `,
           }}
         />
-        <Script
+        {/*<Script
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9295326902131480"
           strategy="afterInteractive"
           crossOrigin="anonymous"
           async
-        />
+        />*/}
 
         {/* Wrap children with SessionProvider if needed */}
         {/* <SessionProvider session={session}> */}
