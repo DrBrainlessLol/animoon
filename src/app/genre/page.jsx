@@ -5,8 +5,8 @@ export async function generateMetadata({ searchParams }) {
   const idd = searchParams.name || "Anime"; // Default fallback for name
 
   return {
-    title: `Watch ${idd} Anime English Sub/Dub online free on Animoon.me`,
-    description: `Animoon is the best site to watch ${idd} Anime SUB online, or you can even watch ${idd} Anime DUB in HD quality. You can also watch underrated anime on Animoon website.`,
+    title: `Watch ${idd} Anime English Sub/Dub online free on Shizuru.app`,
+    description: `Shizuru is the best site to watch ${idd} Anime SUB online, or you can even watch ${idd} Anime DUB in HD quality. You can also watch underrated anime on Shizuru website.`,
   };
 }
 
