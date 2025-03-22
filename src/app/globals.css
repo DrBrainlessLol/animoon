@@ -27,7 +27,7 @@ body {
 #root {
   min-width: 100%;
 }
-/*rgb(83, 255, 134) */
+/*rgb(182, 107, 249); */
 /* kaidoX - #ff8598*/
 
 :root {
@@ -38,7 +38,7 @@ body {
   --height-medium: 500px;
   --height-large: 610px;
   --light: #ffffff;
-  --theme: rgb(83, 255, 134);
+  --theme: rgb(182, 107, 249);
   --random-colors: #ff5733, #33ff57, #5733ff, #ff33a8, #33a8ff, #a833ff, #ff33ff,
     #33ffc2, #a8ff33, #ffc233;
 }
