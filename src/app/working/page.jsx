@@ -7,11 +7,11 @@ export async function generateMetadata() {
 
   return {
     title: `Watch ${idd} English Sub/Dub online free on Animoon.me , free Anime Streaming`,
-    description: `Animoon is the best site to watch
+    description: `Shizuru is the best site to watch
                       ${idd} SUB online, or you can even
                       watch ${idd} DUB in HD quality. You
                       can also watch under rated anime
-                      on Animoon website.`,
+                      on Shizuru website.`,
   };
 }
 
