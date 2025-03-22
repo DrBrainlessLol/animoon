@@ -35,15 +35,15 @@ const Advertize = () => {
     return () => clearInterval(interval);
   }, [time]);
 
-  function Newtab() {
+  function Newtab() {/*
     localStorage.setItem("lastDisplay", new Date().toISOString());
     localStorage.setItem("lastDate", time.getDate().toString());
     localStorage.setItem("lastHour", time.getHours().toString());
     localStorage.setItem("truth", "false");
     window.open(
-      {/*"https://www.highrevenuenetwork.com/hnq4sfr7se?key=fa60dc3aeeb0a08aa0476e80986ad233"*/
+      {"https://www.highrevenuenetwork.com/hnq4sfr7se?key=fa60dc3aeeb0a08aa0476e80986ad233"
     );
-  }
+  */}
 
   return (
     <div
