@@ -945,11 +945,11 @@ export default function WatchAnime(props) {
                       </span>
                     </p>
                     <p>
-                      Animoon is the best site to watch{" "}
+                      Shizuru is the best site to watch{" "}
                       {props.datao.anime.info.name} SUB online, or you can even
                       watch {props.datao.anime.info.name} DUB in HD quality. You
                       can also find {props.datao.anime.moreInfo.studios} anime
-                      on Animoon website.
+                      on Shizuru website.
                     </p>
                   </div>
                 </div>
